@@ -5,7 +5,15 @@
       <map>
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.198" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.198" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/activity_formmenu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/activity_hasil.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/activity_lihat_data.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/activity_lihat_data2.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/item_listview.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/menu/popup_menu.xml" value="0.17037037037037037" />
       </map>
     </option>
   </component>
